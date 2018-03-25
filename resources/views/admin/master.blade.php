@@ -12,10 +12,10 @@
     <title>Admin</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="admin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="admin/vendor_1/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="admin/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+    <link href="admin/vendor_1/metisMenu/metisMenu.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="admin/vendor/datatables-plugins/dataTables.bootstrap.css">
     <link rel="stylesheet" href="admin/vendor/datatables-responsive/dataTables.responsive.css">
@@ -24,10 +24,10 @@
     <link href="admin/dist/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Morris Charts CSS -->
-    <link href="admin/vendor/morrisjs/morris.css" rel="stylesheet">
+    <link href="admin/vendor_1/morrisjs/morris.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="admin/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="admin/vendor_1/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <script type="text/javascript">
       var baseURL = "{!! url('/') !!}";
@@ -79,22 +79,22 @@
     <!-- /#wrapper -->
 
     <!-- jQuery -->
-    <script src="admin/vendor/jquery/jquery.min.js"></script>
+    <script src="admin/vendor_1/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="admin/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="admin/vendor_1/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
-    <script src="admin/vendor/metisMenu/metisMenu.min.js"></script>
+    <script src="admin/vendor_1/metisMenu/metisMenu.min.js"></script>
 
     <!-- Morris Charts JavaScript -->
-    <script src="admin/vendor/raphael/raphael.min.js"></script>
-    <script src="admin/vendor/morrisjs/morris.min.js"></script>
+    <script src="admin/vendor_1/raphael/raphael.min.js"></script>
+    <script src="admin/vendor_1/morrisjs/morris.min.js"></script>
     <script src="admin/data/morris-data.js"></script>
 
-    <script src="admin/vendor/datatables/js/jquery.dataTables.min.js"></script>
-    <script src="admin/vendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
-    <script src="admin/vendor/datatables-responsive/dataTables.responsive.js"></script>
+    <script src="admin/vendor_1/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="admin/vendor_1/datatables-plugins/dataTables.bootstrap.min.js"></script>
+    <script src="admin/vendor_1/datatables-responsive/dataTables.responsive.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="admin/dist/js/sb-admin-2.js"></script>
     <script>
